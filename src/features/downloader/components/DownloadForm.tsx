@@ -47,7 +47,8 @@ export function DownloadForm({
       if (urlMatch && urlMatch[0]) {
         const extractedUrl = urlMatch[0];
         setUrl(extractedUrl);
-        // We do NOT auto-submit so the user can choose video/audio themselves!
+        // Automatically start the API fetch process (simulating a 'Download Video' click)
+        onSubmit(extractedUrl);
       }
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
