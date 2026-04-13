@@ -1,7 +1,5 @@
 # ⚡ SnapSave: High-Performance TikTok Downloader
 
-![SnapSave](/public/globe.svg)
-
 **SnapSave** is a premium, ultra-fast, watermark-free TikTok media downloader. Built completely on modern web standards, it seamlessly transitions into a Progressive Web App (PWA) on mobile, letting you download videos into your camera roll smoothly.
 
 ---
